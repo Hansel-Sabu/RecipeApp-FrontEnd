@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import AddRecipe from './components/AddRecipe';
 
 function App() {
   return (
     <div>
-      <p>
-        Hello
-      </p>
+      <AddRecipe/>
     </div>
   );
 }
