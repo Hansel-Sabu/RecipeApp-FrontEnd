@@ -11,8 +11,8 @@ function App() {
       <BrowserRouter>
       <Routes>
         <Route path='/'element={<ViewRecipes/>}/>
-        <Route path='/1'element={<AddRecipe/>}/>
-        <Route path='/2'element={<SearchRecipe/>}/>
+        <Route path='/add'element={<AddRecipe/>}/>
+        <Route path='/search'element={<SearchRecipe/>}/>
       </Routes>
       </BrowserRouter>
     </div>

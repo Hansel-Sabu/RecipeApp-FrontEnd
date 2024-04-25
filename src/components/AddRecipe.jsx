@@ -5,7 +5,7 @@ const AddRecipe = () => {
     return (
         <div>
             <Navbar/>
-            <div className="conatiner">
+            <div className="container">
                 <div className="row">
                     <div className="col col-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                         <div className="row g-3">
